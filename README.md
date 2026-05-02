@@ -1,5 +1,7 @@
 # Instacart Reorder Recommendation Engine
+
 Achieved ~4x lift over random baseline and ~58% recall@10 for next-basket prediction.
+
 ![Model Comparison](images/model_comparison_grouped.png)
 A scalable end-to-end recommendation system built using PySpark and Databricks to predict next-basket purchases, generate cross-sell recommendations, and segment customers for targeted business strategies.
 
@@ -71,12 +73,6 @@ Clusters users based on behavior to enable personalized strategies.
 ### Key Insight
 - PR-AUC baseline ≈ class imbalance (~10%)
 - Achieved ~4x lift over random performance
-
----
-
-## Model Comparison
-
-![Model Comparison](images/model_comparison_grouped.png)
 
 ---
 
