@@ -1,0 +1,12 @@
+data/
+*.csv
+*.parquet
+*.snappy.parquet
+*.crc
+_dbfs/
+.ipynb_checkpoints/
+.DS_Store
+models/
+gold/
+silver/
+optimized/
